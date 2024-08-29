@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\projetos\\SalesWebMvc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{589DB1E9-BC0C-4226-A7C1-B96C9D734CE7}|SalesWebMvc\\SalesWebMvc.csproj|g:\\projetos\\saleswebmvc\\saleswebmvc\\views\\departments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{589DB1E9-BC0C-4226-A7C1-B96C9D734CE7}|SalesWebMvc\\SalesWebMvc.csproj|solutionrelative:saleswebmvc\\views\\departments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{589DB1E9-BC0C-4226-A7C1-B96C9D734CE7}|SalesWebMvc\\SalesWebMvc.csproj|g:\\projetos\\saleswebmvc\\saleswebmvc\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{589DB1E9-BC0C-4226-A7C1-B96C9D734CE7}|SalesWebMvc\\SalesWebMvc.csproj|solutionrelative:saleswebmvc\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{589DB1E9-BC0C-4226-A7C1-B96C9D734CE7}|SalesWebMvc\\SalesWebMvc.csproj|g:\\projetos\\saleswebmvc\\saleswebmvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{589DB1E9-BC0C-4226-A7C1-B96C9D734CE7}|SalesWebMvc\\SalesWebMvc.csproj|solutionrelative:saleswebmvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{589DB1E9-BC0C-4226-A7C1-B96C9D734CE7}|SalesWebMvc\\SalesWebMvc.csproj|g:\\projetos\\saleswebmvc\\saleswebmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{589DB1E9-BC0C-4226-A7C1-B96C9D734CE7}|SalesWebMvc\\SalesWebMvc.csproj|solutionrelative:saleswebmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{589DB1E9-BC0C-4226-A7C1-B96C9D734CE7}|SalesWebMvc\\SalesWebMvc.csproj|g:\\projetos\\saleswebmvc\\saleswebmvc\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{589DB1E9-BC0C-4226-A7C1-B96C9D734CE7}|SalesWebMvc\\SalesWebMvc.csproj|solutionrelative:saleswebmvc\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{589DB1E9-BC0C-4226-A7C1-B96C9D734CE7}|SalesWebMvc\\SalesWebMvc.csproj|g:\\projetos\\saleswebmvc\\saleswebmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{589DB1E9-BC0C-4226-A7C1-B96C9D734CE7}|SalesWebMvc\\SalesWebMvc.csproj|solutionrelative:saleswebmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "G:\\projetos\\SalesWebMvc\\SalesWebMvc\\Views\\Departments\\Index.cshtml",
+              "RelativeDocumentMoniker": "SalesWebMvc\\Views\\Departments\\Index.cshtml",
+              "ToolTip": "G:\\projetos\\SalesWebMvc\\SalesWebMvc\\Views\\Departments\\Index.cshtml",
+              "RelativeToolTip": "SalesWebMvc\\Views\\Departments\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T17:35:54.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "G:\\projetos\\SalesWebMvc\\SalesWebMvc\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "SalesWebMvc\\Controllers\\HomeController.cs",
+              "ToolTip": "G:\\projetos\\SalesWebMvc\\SalesWebMvc\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "SalesWebMvc\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T17:25:51.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "G:\\projetos\\SalesWebMvc\\SalesWebMvc\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "SalesWebMvc\\Views\\_ViewImports.cshtml",
+              "ToolTip": "G:\\projetos\\SalesWebMvc\\SalesWebMvc\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "SalesWebMvc\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T17:24:51.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DepartmentsController.cs",
+              "DocumentMoniker": "G:\\projetos\\SalesWebMvc\\SalesWebMvc\\Controllers\\DepartmentsController.cs",
+              "RelativeDocumentMoniker": "SalesWebMvc\\Controllers\\DepartmentsController.cs",
+              "ToolTip": "G:\\projetos\\SalesWebMvc\\SalesWebMvc\\Controllers\\DepartmentsController.cs",
+              "RelativeToolTip": "SalesWebMvc\\Controllers\\DepartmentsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T16:29:02.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Department.cs",
+              "DocumentMoniker": "G:\\projetos\\SalesWebMvc\\SalesWebMvc\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "SalesWebMvc\\Models\\Department.cs",
+              "ToolTip": "G:\\projetos\\SalesWebMvc\\SalesWebMvc\\Models\\Department.cs",
+              "RelativeToolTip": "SalesWebMvc\\Models\\Department.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T16:27:55.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\projetos\\SalesWebMvc\\SalesWebMvc\\Program.cs",
+              "RelativeDocumentMoniker": "SalesWebMvc\\Program.cs",
+              "ToolTip": "G:\\projetos\\SalesWebMvc\\SalesWebMvc\\Program.cs",
+              "RelativeToolTip": "SalesWebMvc\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T15:55:56.892Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
