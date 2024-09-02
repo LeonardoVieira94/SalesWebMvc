@@ -2,12 +2,14 @@ using Microsoft.AspNetCore.Mvc;
 using SalesWebMvc.Models;
 using System.Diagnostics;
 using SalesWebMvc.Models.ViewModels;
+using SalesWebMvc.Data;
 
 namespace SalesWebMvc.Controllers
 {
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
+        private readonly SeedingService _seedingService;
 
         public HomeController(ILogger<HomeController> logger)
         {
