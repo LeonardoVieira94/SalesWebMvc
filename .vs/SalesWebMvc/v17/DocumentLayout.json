@@ -7,12 +7,24 @@
       "RelativeMoniker": "D:0:0:{589DB1E9-BC0C-4226-A7C1-B96C9D734CE7}|SalesWebMvc\\SalesWebMvc.csproj|solutionrelative:saleswebmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{589DB1E9-BC0C-4226-A7C1-B96C9D734CE7}|SalesWebMvc\\SalesWebMvc.csproj|g:\\projetos\\saleswebmvc\\saleswebmvc\\migrations\\20240902125612_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{589DB1E9-BC0C-4226-A7C1-B96C9D734CE7}|SalesWebMvc\\SalesWebMvc.csproj|solutionrelative:saleswebmvc\\migrations\\20240902125612_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{589DB1E9-BC0C-4226-A7C1-B96C9D734CE7}|SalesWebMvc\\SalesWebMvc.csproj|g:\\projetos\\saleswebmvc\\saleswebmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{589DB1E9-BC0C-4226-A7C1-B96C9D734CE7}|SalesWebMvc\\SalesWebMvc.csproj|solutionrelative:saleswebmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{589DB1E9-BC0C-4226-A7C1-B96C9D734CE7}|SalesWebMvc\\SalesWebMvc.csproj|g:\\projetos\\saleswebmvc\\saleswebmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{589DB1E9-BC0C-4226-A7C1-B96C9D734CE7}|SalesWebMvc\\SalesWebMvc.csproj|solutionrelative:saleswebmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{589DB1E9-BC0C-4226-A7C1-B96C9D734CE7}|SalesWebMvc\\SalesWebMvc.csproj|g:\\projetos\\saleswebmvc\\saleswebmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{589DB1E9-BC0C-4226-A7C1-B96C9D734CE7}|SalesWebMvc\\SalesWebMvc.csproj|solutionrelative:saleswebmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{589DB1E9-BC0C-4226-A7C1-B96C9D734CE7}|SalesWebMvc\\SalesWebMvc.csproj|g:\\projetos\\saleswebmvc\\saleswebmvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{589DB1E9-BC0C-4226-A7C1-B96C9D734CE7}|SalesWebMvc\\SalesWebMvc.csproj|solutionrelative:saleswebmvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{589DB1E9-BC0C-4226-A7C1-B96C9D734CE7}|SalesWebMvc\\SalesWebMvc.csproj|g:\\projetos\\saleswebmvc\\saleswebmvc\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{589DB1E9-BC0C-4226-A7C1-B96C9D734CE7}|SalesWebMvc\\SalesWebMvc.csproj|solutionrelative:saleswebmvc\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{589DB1E9-BC0C-4226-A7C1-B96C9D734CE7}|SalesWebMvc\\SalesWebMvc.csproj|g:\\projetos\\saleswebmvc\\saleswebmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{589DB1E9-BC0C-4226-A7C1-B96C9D734CE7}|SalesWebMvc\\SalesWebMvc.csproj|solutionrelative:saleswebmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{589DB1E9-BC0C-4226-A7C1-B96C9D734CE7}|SalesWebMvc\\SalesWebMvc.csproj|g:\\projetos\\saleswebmvc\\saleswebmvc\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,12 +35,12 @@
       "RelativeMoniker": "D:0:0:{589DB1E9-BC0C-4226-A7C1-B96C9D734CE7}|SalesWebMvc\\SalesWebMvc.csproj|solutionrelative:saleswebmvc\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{589DB1E9-BC0C-4226-A7C1-B96C9D734CE7}|SalesWebMvc\\SalesWebMvc.csproj|g:\\projetos\\saleswebmvc\\saleswebmvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{589DB1E9-BC0C-4226-A7C1-B96C9D734CE7}|SalesWebMvc\\SalesWebMvc.csproj|solutionrelative:saleswebmvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{589DB1E9-BC0C-4226-A7C1-B96C9D734CE7}|SalesWebMvc\\SalesWebMvc.csproj|g:\\projetos\\saleswebmvc\\saleswebmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{589DB1E9-BC0C-4226-A7C1-B96C9D734CE7}|SalesWebMvc\\SalesWebMvc.csproj|solutionrelative:saleswebmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{589DB1E9-BC0C-4226-A7C1-B96C9D734CE7}|SalesWebMvc\\SalesWebMvc.csproj|g:\\projetos\\saleswebmvc\\saleswebmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{589DB1E9-BC0C-4226-A7C1-B96C9D734CE7}|SalesWebMvc\\SalesWebMvc.csproj|solutionrelative:saleswebmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{589DB1E9-BC0C-4226-A7C1-B96C9D734CE7}|SalesWebMvc\\SalesWebMvc.csproj|g:\\projetos\\saleswebmvc\\saleswebmvc\\migrations\\20240902125612_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{589DB1E9-BC0C-4226-A7C1-B96C9D734CE7}|SalesWebMvc\\SalesWebMvc.csproj|solutionrelative:saleswebmvc\\migrations\\20240902125612_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,11 +50,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "G:\\projetos\\SalesWebMvc\\SalesWebMvc\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "SalesWebMvc\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "G:\\projetos\\SalesWebMvc\\SalesWebMvc\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "SalesWebMvc\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAB9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-02T13:41:46.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "G:\\projetos\\SalesWebMvc\\SalesWebMvc\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "SalesWebMvc\\Views\\Home\\Index.cshtml",
+              "ToolTip": "G:\\projetos\\SalesWebMvc\\SalesWebMvc\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "SalesWebMvc\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-02T13:26:52.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "G:\\projetos\\SalesWebMvc\\SalesWebMvc\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "SalesWebMvc\\Views\\Home\\About.cshtml",
+              "ToolTip": "G:\\projetos\\SalesWebMvc\\SalesWebMvc\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "SalesWebMvc\\Views\\Home\\About.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-02T13:34:02.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "20240902125612_Initial.cs",
               "DocumentMoniker": "G:\\projetos\\SalesWebMvc\\SalesWebMvc\\Migrations\\20240902125612_Initial.cs",
               "RelativeDocumentMoniker": "SalesWebMvc\\Migrations\\20240902125612_Initial.cs",
@@ -55,7 +106,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "appsettings.json",
               "DocumentMoniker": "G:\\projetos\\SalesWebMvc\\SalesWebMvc\\appsettings.json",
               "RelativeDocumentMoniker": "SalesWebMvc\\appsettings.json",
@@ -68,7 +119,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "DepartmentsController.cs",
               "DocumentMoniker": "G:\\projetos\\SalesWebMvc\\SalesWebMvc\\Controllers\\DepartmentsController.cs",
               "RelativeDocumentMoniker": "SalesWebMvc\\Controllers\\DepartmentsController.cs",
@@ -81,19 +132,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "HomeController.cs",
               "DocumentMoniker": "G:\\projetos\\SalesWebMvc\\SalesWebMvc\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "SalesWebMvc\\Controllers\\HomeController.cs",
               "ToolTip": "G:\\projetos\\SalesWebMvc\\SalesWebMvc\\Controllers\\HomeController.cs",
               "RelativeToolTip": "SalesWebMvc\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAgwBQAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-29T17:25:51.288Z"
+              "WhenOpened": "2024-08-29T17:25:51.288Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "G:\\projetos\\SalesWebMvc\\SalesWebMvc\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "SalesWebMvc\\Views\\_ViewImports.cshtml",
@@ -101,11 +153,12 @@
               "RelativeToolTip": "SalesWebMvc\\Views\\_ViewImports.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-29T17:24:51.527Z"
+              "WhenOpened": "2024-08-29T17:24:51.527Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Department.cs",
               "DocumentMoniker": "G:\\projetos\\SalesWebMvc\\SalesWebMvc\\Models\\Department.cs",
               "RelativeDocumentMoniker": "SalesWebMvc\\Models\\Department.cs",
@@ -124,7 +177,7 @@
               "RelativeDocumentMoniker": "SalesWebMvc\\Program.cs",
               "ToolTip": "G:\\projetos\\SalesWebMvc\\SalesWebMvc\\Program.cs",
               "RelativeToolTip": "SalesWebMvc\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAjAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-26T15:55:56.892Z",
               "EditorCaption": ""

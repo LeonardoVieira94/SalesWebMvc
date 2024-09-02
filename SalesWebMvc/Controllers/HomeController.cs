@@ -23,6 +23,14 @@ namespace SalesWebMvc.Controllers
         {
             return View();
         }
+        public IActionResult About()
+        {
+            ViewData["Message"] = "Sales Web Application from C# Course";
+            ViewData["CreatedBy"] = "Leonardo Araujo";
+            ViewData["Email"] = "leonardovieira_94@hotmail.com";
+
+            return View();
+        }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
